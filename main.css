@@ -1,0 +1,17 @@
+table, tr, td{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+.largura{
+    background-color: teal;
+    color: aquamarine;
+}
+
+#LargColuna{
+    width: 150px;
+}
+
+body{
+    font-family: Verdana;
+}
